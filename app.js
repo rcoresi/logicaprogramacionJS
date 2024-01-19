@@ -6,7 +6,7 @@ let intentos = 0;
 let maximosIntentos = 0;
 //let palabraVeces = 'vez';
 // seleccion de numero de intentos
-maximosIntentos = parseInt(prompt("me Indicas el numero maximo de intentos Para jugar a adivinar"));
+maximosIntentos = parseInt(prompt("Me indicas el numero maximo de intentos Para jugar a adivinar"));
 // prompt para poder seleccionar numero entre 1 y n de juego
 numeroMaximo = parseInt(prompt("Me indicas desde 1 hasta que numero quieres intentar adivinar"));
 
